@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.17)
-project(gtest_cmake_auto_dwld)
-
+project( STD_A1_always_latest_gtest_zip-main )
+# gtest_cmake_auto_dwld
 
 
 
